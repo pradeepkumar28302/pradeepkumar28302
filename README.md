@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pradeepkumar28302
-- 👀 I’m interested in Data Analyst and Statistics
+- 👀 I’m interested in Java Programming
 - 🌱 I’m currently learning on Java and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
